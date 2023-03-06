@@ -1,0 +1,18 @@
+.card {
+    background-color: white;
+}
+
+.card--dark {
+    background-color: black;
+    color:white;
+}
+
+.card__content {
+    padding:30px;
+}
+
+.card__title {
+    font-family: knewave;
+    font-size: 45px;
+    margin-top:0;
+}

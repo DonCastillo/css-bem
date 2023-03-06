@@ -1,0 +1,9 @@
+.logo {
+    font-size:35px;
+    font-family: knewave;
+    color: #ff6fce;
+}
+
+.logo--dark {
+    color:black;
+}
